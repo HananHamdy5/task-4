@@ -1,0 +1,31 @@
+    body{
+        background-image: url(5da5951894ba8a57b30e8318d66491bc.jpg);
+        background-size: 100%;
+         background-repeat: no-repeat ;   
+        opacity: 1;
+        font-style: italic;
+        padding-top: 60px;
+    }
+
+    div{
+    
+        border-style: solid;
+        background-color: rgb(1, 107, 95);
+        width: 500px;
+        height: 700px; 
+
+
+
+    }
+
+    h1{
+        color: rgb(10, 11, 11);
+        text-align: center;
+    }
+
+
+    #sub{
+        background-image: linear-gradient(to left, rgb(35, 171, 165),rgba(30, 90, 81, 0.937));
+        color: rgb(255, 255, 255);
+    }
+
